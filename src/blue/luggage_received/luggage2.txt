@@ -1,0 +1,47 @@
+1,2,3,4,-
+1,2,3,4,5,6,7,-
+
+Node id: 1----------------
+Memory Total: 5945.MB
+Memory Free: 0.02%
+File system total: 48958.GB
+File system Free: 0.63%
+FW Table: 
+2,2
+3,3
+-
+AG Neightbors: -
+Graph Map: 
+0
+Source to each source packets count: 
+1,34
+3,48
+-
+Total packages sent: 
+-
+Total packages received: 
+-
+Total package received from BC: 0
+Total package received from FW: 0
+Node id: 3----------------
+Memory Total: 5945.MB
+Memory Free: 0.02%
+File system total: 48958.GB
+File system Free: 0.63%
+FW Table: 
+1,1
+4,4
+-
+AG Neightbors: -
+Graph Map: 
+0
+Source to each source packets count: 
+1,68
+3,79
+-
+Total packages sent: 
+-
+Total packages received: 
+-
+Total package received from BC: 0
+Total package received from FW: 0

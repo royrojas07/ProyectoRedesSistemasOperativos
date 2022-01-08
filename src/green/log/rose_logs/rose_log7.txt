@@ -1,0 +1,5 @@
+[2020-07-08 21:34:38.111074] Case 0 <ST> Spanning Tree was created
+[2020-07-08 21:34:38.111699] Case 0 <SB> Sandbox was created
+[2020-07-08 21:34:38.117548] Case 0 <ST> bc table was init
+[2020-07-08 21:34:38.121499] Case 0 <SB> The queue in and out were sent to SW
+[2020-07-08 21:34:38.126007] Case 0 <ST> Intelligent mode desactived so the silly send is call

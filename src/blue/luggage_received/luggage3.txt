@@ -1,0 +1,17 @@
+1,-
+1,-
+
+Node id: 1----------------
+Memory Total: 5945.MB
+FW Table: 
+2,2
+3,3
+4,3
+-
+Node id: 3----------------
+Memory Total: 5945.MB
+FW Table: 
+1,1
+2,1
+4,4
+-

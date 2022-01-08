@@ -1,0 +1,224 @@
+[2020-07-11 13:43:15.906457] Case 0 <ST> Spanning Tree was created
+[2020-07-11 13:43:15.906610] Case 0 <SB> Sandbox was created
+[2020-07-11 13:43:15.907351] Case 0 <ST> bc table was init
+[2020-07-11 13:43:15.908217] Case 0 <SB> The queue in and out were sent to SW
+[2020-07-11 13:43:15.909194] Case 0  <ST> A msg to be despatched comes
+[2020-07-11 13:43:15.918655] Case 2  Came a msg that its alive
+[2020-07-11 13:43:15.918699] Case 0  Verification if it is alive completed
+[2020-07-11 13:43:15.929898] Case 0  <ST> A msg to be despatched comes
+[2020-07-11 13:43:15.929959] Case 1 <ST> Update to bc_table got out
+[2020-07-11 13:43:16.270990] Case 0  <ST> A msg to be despatched comes
+[2020-07-11 13:43:16.271144] Case 2 <ST> A question if Im alive came
+[2020-07-11 13:43:16.291302] Case 0  <ST> A msg to be despatched comes
+[2020-07-11 13:43:16.291471] Case 2 <ST> A question to join was sent
+[2020-07-11 13:43:16.291510] Case 1 <ST> I will answer no you cant
+[2020-07-11 13:43:17.932092] Case 0 <ST> I succesfully join to the AG
+[2020-07-11 13:43:42.021799] Case 0 <SB> A packet came from green to Sandbox
+[2020-07-11 13:43:42.022193] Case 2 <SB> A packet from blue came with destinies
+[2020-07-11 13:43:42.022354] Case 0 <SB> A packet came from green to Sandbox
+[2020-07-11 13:43:42.022491] Case 0 <SB> A packet came from green to Sandbox
+[2020-07-11 13:43:42.022629] Case 2 <SB> A packet from blue came with the executable
+[2020-07-11 13:43:42.027757] Case 2 <SB> A packet from blue came with the luggage
+[2020-07-11 13:43:42.028792] Case 0 <SB> The spider 4_0 was executed
+[2020-07-11 13:43:43.936721] Case 2 <SB> A request from spider 4_0 was received
+[2020-07-11 13:43:43.937039] Case 1 <SB> The spider 4_0 sent a request
+[2020-07-11 13:43:43.938008] Case 0 <SB> A packet came from green to Sandbox
+[2020-07-11 13:43:43.938414] Case 1 <SB> The spider 4_0's request was received
+[2020-07-11 13:43:43.938726] Case 2 <SB> A request from spider 4_0 was received
+[2020-07-11 13:43:43.938827] Case 1 <SB> The spider 4_0 sent a request
+[2020-07-11 13:43:43.939429] Case 0 <SB> A packet came from green to Sandbox
+[2020-07-11 13:43:43.939634] Case 1 <SB> The spider 4_0's request was received
+[2020-07-11 13:43:43.939884] Case 2 <SB> A request from spider 4_0 was received
+[2020-07-11 13:43:43.939966] Case 1 <SB> The spider 4_0 sent a request
+[2020-07-11 13:43:43.940449] Case 0 <SB> A packet came from green to Sandbox
+[2020-07-11 13:43:43.940650] Case 1 <SB> The spider 4_0's request was received
+[2020-07-11 13:43:43.940963] Case 2 <SB> A request from spider 4_0 was received
+[2020-07-11 13:43:43.941074] Case 0 <SB> The spider 4_0 wants to finish
+[2020-07-11 13:43:43.941282] Case 2 <SB> Deconstruct was called
+[2020-07-11 13:43:43.941353] Case 0 <SB> The next destiny is 1
+[2020-07-11 13:43:43.951468] Case 1 <SB> Exe file ../blue/spider_exe/spider1 was sent
+[2020-07-11 13:43:43.951543] Case 1 <SB> Exe file ../blue/spider_exe/spider1 was sent
+[2020-07-11 13:43:43.951572] Case 1 <SB> Exe file ../blue/spider_exe/spider1 was sent
+[2020-07-11 13:43:43.951604] Case 1 <SB> Exe file ../blue/spider_exe/spider1 was sent
+[2020-07-11 13:43:43.951627] Case 1 <SB> Exe file ../blue/spider_exe/spider1 was sent
+[2020-07-11 13:43:43.951650] Case 1 <SB> Exe file ../blue/spider_exe/spider1 was sent
+[2020-07-11 13:43:43.951671] Case 1 <SB> Exe file ../blue/spider_exe/spider1 was sent
+[2020-07-11 13:43:43.951693] Case 1 <SB> Exe file ../blue/spider_exe/spider1 was sent
+[2020-07-11 13:43:43.951714] Case 1 <SB> Exe file ../blue/spider_exe/spider1 was sent
+[2020-07-11 13:43:43.951747] Case 1 <SB> Exe file ../blue/spider_exe/spider1 was sent
+[2020-07-11 13:43:43.951771] Case 1 <SB> Exe file ../blue/spider_exe/spider1 was sent
+[2020-07-11 13:43:43.951798] Case 1 <SB> Exe file ../blue/spider_exe/spider1 was sent
+[2020-07-11 13:43:43.951820] Case 1 <SB> Exe file ../blue/spider_exe/spider1 was sent
+[2020-07-11 13:43:43.951841] Case 1 <SB> Exe file ../blue/spider_exe/spider1 was sent
+[2020-07-11 13:43:43.951862] Case 1 <SB> Exe file ../blue/spider_exe/spider1 was sent
+[2020-07-11 13:43:43.951883] Case 1 <SB> Exe file ../blue/spider_exe/spider1 was sent
+[2020-07-11 13:43:43.951904] Case 1 <SB> Exe file ../blue/spider_exe/spider1 was sent
+[2020-07-11 13:43:43.951925] Case 1 <SB> Exe file ../blue/spider_exe/spider1 was sent
+[2020-07-11 13:43:43.951946] Case 1 <SB> Exe file ../blue/spider_exe/spider1 was sent
+[2020-07-11 13:43:43.951981] Case 1 <SB> Exe file ../blue/spider_exe/spider1 was sent
+[2020-07-11 13:43:43.952005] Case 1 <SB> Exe file ../blue/spider_exe/spider1 was sent
+[2020-07-11 13:43:43.952044] Case 1 <SB> Exe file ../blue/spider_exe/spider1 was sent
+[2020-07-11 13:43:43.952076] Case 0 <SB> Exe file ../blue/spider_exe/spider1 was chunked
+[2020-07-11 13:43:43.952357] Case 1 <SB> luggage file ../blue/luggage_sent/luggage1.txt was sent
+[2020-07-11 13:43:43.952421] Case 0 <SB> Luggage file ../blue/luggage_sent/luggage1.txt was chunked
+[2020-07-11 13:43:43.952520] Case 1 <SB> Final packet was sent
+[2020-07-11 13:43:43.952550] Case 1 <SB> Desconnect packet to S&W was sent
+[2020-07-11 13:43:50.294090] Case 2 <SB> A packet with destinies came
+[2020-07-11 13:43:50.394675] Case 2 <SB> A exe packet came
+[2020-07-11 13:43:50.394765] Case 2 <SB> A exe packet came
+[2020-07-11 13:43:50.394800] Case 2 <SB> A exe packet came
+[2020-07-11 13:43:50.394829] Case 2 <SB> A exe packet came
+[2020-07-11 13:43:50.394855] Case 2 <SB> A exe packet came
+[2020-07-11 13:43:50.394880] Case 2 <SB> A exe packet came
+[2020-07-11 13:43:50.394905] Case 2 <SB> A exe packet came
+[2020-07-11 13:43:50.394932] Case 2 <SB> A exe packet came
+[2020-07-11 13:43:50.394957] Case 2 <SB> A exe packet came
+[2020-07-11 13:43:50.394981] Case 2 <SB> A exe packet came
+[2020-07-11 13:43:50.810729] Case 2 <SB> A exe packet came
+[2020-07-11 13:43:50.812384] Case 2 <SB> A exe packet came
+[2020-07-11 13:43:50.813836] Case 2 <SB> A exe packet came
+[2020-07-11 13:43:50.815245] Case 2 <SB> A exe packet came
+[2020-07-11 13:43:50.816583] Case 2 <SB> A exe packet came
+[2020-07-11 13:43:50.817866] Case 2 <SB> A exe packet came
+[2020-07-11 13:43:50.819245] Case 2 <SB> A exe packet came
+[2020-07-11 13:43:50.820505] Case 2 <SB> A exe packet came
+[2020-07-11 13:43:50.821742] Case 2 <SB> A exe packet came
+[2020-07-11 13:43:50.823092] Case 2 <SB> A exe packet came
+[2020-07-11 13:43:50.824316] Case 2 <SB> A exe packet came
+[2020-07-11 13:43:51.326831] Case 2 <SB> A exe packet came
+[2020-07-11 13:43:51.328734] Case 2 <SB> A luggage packet came
+[2020-07-11 13:43:51.330676] Case 2 <SB> A luggage packet came
+[2020-07-11 13:43:51.332464] Case 2 <SB> The final packet came
+[2020-07-11 13:43:51.948675] Case 2 <SB> A request from spider 1_0 was received
+[2020-07-11 13:43:51.948937] Case 1 <SB> The spider 1_0 sent a request
+[2020-07-11 13:43:51.949835] Case 0 <SB> A packet came from green to Sandbox
+[2020-07-11 13:43:51.950059] Case 1 <SB> The spider 1_0's request was received
+[2020-07-11 13:43:51.950399] Case 2 <SB> A request from spider 1_0 was received
+[2020-07-11 13:43:51.950491] Case 1 <SB> The spider 1_0 sent a request
+[2020-07-11 13:43:51.951135] Case 0 <SB> A packet came from green to Sandbox
+[2020-07-11 13:43:51.951366] Case 1 <SB> The spider 1_0's request was received
+[2020-07-11 13:43:51.951588] Case 2 <SB> A request from spider 1_0 was received
+[2020-07-11 13:43:51.951670] Case 1 <SB> The spider 1_0 sent a request
+[2020-07-11 13:43:51.952359] Case 0 <SB> A packet came from green to Sandbox
+[2020-07-11 13:43:51.952538] Case 1 <SB> The spider 1_0's request was received
+[2020-07-11 13:43:51.952806] Case 2 <SB> A request from spider 1_0 was received
+[2020-07-11 13:43:51.952898] Case 0 <SB> The spider 1_0 wants to finish
+[2020-07-11 13:43:51.953108] Case 2 <SB> Deconstruct was called
+[2020-07-11 13:43:51.953196] Case 0 <SB> The next destiny is 1
+[2020-07-11 13:43:51.959104] Case 0 <SB> The luggage luggage1_0.txt is sent to the origen 1
+[2020-07-11 13:43:51.959432] Case 1 <SB> Luggage file luggage1_0.txt was sent
+[2020-07-11 13:43:51.959691] Case 1 <SB> Luggage file luggage1_0.txt was sent
+[2020-07-11 13:43:51.960270] Case 1 <SB> Final packet was sent
+[2020-07-11 13:43:51.960356] Case 1 <SB> Desconnect packet to S&W was sent
+[2020-07-11 13:43:15.906457] Case 0 <ST> Spanning Tree was created
+[2020-07-11 13:43:15.906610] Case 0 <SB> Sandbox was created
+[2020-07-11 13:43:15.907351] Case 0 <ST> bc table was init
+[2020-07-11 13:43:15.908217] Case 0 <SB> The queue in and out were sent to SW
+[2020-07-11 13:43:15.909194] Case 0  <ST> A msg to be despatched comes
+[2020-07-11 13:43:15.918655] Case 2  Came a msg that its alive
+[2020-07-11 13:43:15.918699] Case 0  Verification if it is alive completed
+[2020-07-11 13:43:15.929898] Case 0  <ST> A msg to be despatched comes
+[2020-07-11 13:43:15.929959] Case 1 <ST> Update to bc_table got out
+[2020-07-11 13:43:16.270990] Case 0  <ST> A msg to be despatched comes
+[2020-07-11 13:43:16.271144] Case 2 <ST> A question if Im alive came
+[2020-07-11 13:43:16.291302] Case 0  <ST> A msg to be despatched comes
+[2020-07-11 13:43:16.291471] Case 2 <ST> A question to join was sent
+[2020-07-11 13:43:16.291510] Case 1 <ST> I will answer no you cant
+[2020-07-11 13:43:17.932092] Case 0 <ST> I succesfully join to the AG
+[2020-07-11 13:43:42.021799] Case 0 <SB> A packet came from green to Sandbox
+[2020-07-11 13:43:42.022193] Case 2 <SB> A packet from blue came with destinies
+[2020-07-11 13:43:42.022354] Case 0 <SB> A packet came from green to Sandbox
+[2020-07-11 13:43:42.022491] Case 0 <SB> A packet came from green to Sandbox
+[2020-07-11 13:43:42.022629] Case 2 <SB> A packet from blue came with the executable
+[2020-07-11 13:43:42.027757] Case 2 <SB> A packet from blue came with the luggage
+[2020-07-11 13:43:15.906457] Case 0 <ST> Spanning Tree was created
+[2020-07-11 13:43:15.906610] Case 0 <SB> Sandbox was created
+[2020-07-11 13:43:15.907351] Case 0 <ST> bc table was init
+[2020-07-11 13:43:15.908217] Case 0 <SB> The queue in and out were sent to SW
+[2020-07-11 13:43:15.909194] Case 0  <ST> A msg to be despatched comes
+[2020-07-11 13:43:15.918655] Case 2  Came a msg that its alive
+[2020-07-11 13:43:15.918699] Case 0  Verification if it is alive completed
+[2020-07-11 13:43:15.929898] Case 0  <ST> A msg to be despatched comes
+[2020-07-11 13:43:15.929959] Case 1 <ST> Update to bc_table got out
+[2020-07-11 13:43:16.270990] Case 0  <ST> A msg to be despatched comes
+[2020-07-11 13:43:16.271144] Case 2 <ST> A question if Im alive came
+[2020-07-11 13:43:16.291302] Case 0  <ST> A msg to be despatched comes
+[2020-07-11 13:43:16.291471] Case 2 <ST> A question to join was sent
+[2020-07-11 13:43:16.291510] Case 1 <ST> I will answer no you cant
+[2020-07-11 13:43:17.932092] Case 0 <ST> I succesfully join to the AG
+[2020-07-11 13:43:42.021799] Case 0 <SB> A packet came from green to Sandbox
+[2020-07-11 13:43:42.022193] Case 2 <SB> A packet from blue came with destinies
+[2020-07-11 13:43:42.022354] Case 0 <SB> A packet came from green to Sandbox
+[2020-07-11 13:43:42.022491] Case 0 <SB> A packet came from green to Sandbox
+[2020-07-11 13:43:42.022629] Case 2 <SB> A packet from blue came with the executable
+[2020-07-11 13:43:42.027757] Case 2 <SB> A packet from blue came with the luggage
+[2020-07-11 13:43:42.028792] Case 0 <SB> The spider 4_0 was executed
+[2020-07-11 13:43:43.936721] Case 2 <SB> A request from spider 4_0 was received
+[2020-07-11 13:43:43.937039] Case 1 <SB> The spider 4_0 sent a request
+[2020-07-11 13:43:43.938008] Case 0 <SB> A packet came from green to Sandbox
+[2020-07-11 13:43:43.938414] Case 1 <SB> The spider 4_0's request was received
+[2020-07-11 13:43:43.938726] Case 2 <SB> A request from spider 4_0 was received
+[2020-07-11 13:43:43.938827] Case 1 <SB> The spider 4_0 sent a request
+[2020-07-11 13:43:43.939429] Case 0 <SB> A packet came from green to Sandbox
+[2020-07-11 13:43:43.939634] Case 1 <SB> The spider 4_0's request was received
+[2020-07-11 13:43:43.939884] Case 2 <SB> A request from spider 4_0 was received
+[2020-07-11 13:43:43.939966] Case 1 <SB> The spider 4_0 sent a request
+[2020-07-11 13:43:43.940449] Case 0 <SB> A packet came from green to Sandbox
+[2020-07-11 13:43:43.940650] Case 1 <SB> The spider 4_0's request was received
+[2020-07-11 13:43:43.940963] Case 2 <SB> A request from spider 4_0 was received
+[2020-07-11 13:43:43.941074] Case 0 <SB> The spider 4_0 wants to finish
+[2020-07-11 13:43:43.941282] Case 2 <SB> Deconstruct was called
+[2020-07-11 13:43:43.941353] Case 0 <SB> The next destiny is 1
+[2020-07-11 13:43:43.951468] Case 1 <SB> Exe file ../blue/spider_exe/spider1 was sent
+[2020-07-11 13:43:43.951543] Case 1 <SB> Exe file ../blue/spider_exe/spider1 was sent
+[2020-07-11 13:43:43.951572] Case 1 <SB> Exe file ../blue/spider_exe/spider1 was sent
+[2020-07-11 13:43:43.951604] Case 1 <SB> Exe file ../blue/spider_exe/spider1 was sent
+[2020-07-11 13:43:43.951627] Case 1 <SB> Exe file ../blue/spider_exe/spider1 was sent
+[2020-07-11 13:43:43.951650] Case 1 <SB> Exe file ../blue/spider_exe/spider1 was sent
+[2020-07-11 13:43:43.951671] Case 1 <SB> Exe file ../blue/spider_exe/spider1 was sent
+[2020-07-11 13:43:43.951693] Case 1 <SB> Exe file ../blue/spider_exe/spider1 was sent
+[2020-07-11 13:43:43.951714] Case 1 <SB> Exe file ../blue/spider_exe/spider1 was sent
+[2020-07-11 13:43:43.951747] Case 1 <SB> Exe file ../blue/spider_exe/spider1 was sent
+[2020-07-11 13:43:43.951771] Case 1 <SB> Exe file ../blue/spider_exe/spider1 was sent
+[2020-07-11 13:43:43.951798] Case 1 <SB> Exe file ../blue/spider_exe/spider1 was sent
+[2020-07-11 13:43:43.951820] Case 1 <SB> Exe file ../blue/spider_exe/spider1 was sent
+[2020-07-11 13:43:43.951841] Case 1 <SB> Exe file ../blue/spider_exe/spider1 was sent
+[2020-07-11 13:43:43.951862] Case 1 <SB> Exe file ../blue/spider_exe/spider1 was sent
+[2020-07-11 13:43:43.951883] Case 1 <SB> Exe file ../blue/spider_exe/spider1 was sent
+[2020-07-11 13:43:43.951904] Case 1 <SB> Exe file ../blue/spider_exe/spider1 was sent
+[2020-07-11 13:43:43.951925] Case 1 <SB> Exe file ../blue/spider_exe/spider1 was sent
+[2020-07-11 13:43:43.951946] Case 1 <SB> Exe file ../blue/spider_exe/spider1 was sent
+[2020-07-11 13:43:43.951981] Case 1 <SB> Exe file ../blue/spider_exe/spider1 was sent
+[2020-07-11 13:43:43.952005] Case 1 <SB> Exe file ../blue/spider_exe/spider1 was sent
+[2020-07-11 13:43:43.952044] Case 1 <SB> Exe file ../blue/spider_exe/spider1 was sent
+[2020-07-11 13:43:43.952076] Case 0 <SB> Exe file ../blue/spider_exe/spider1 was chunked
+[2020-07-11 13:43:43.952357] Case 1 <SB> luggage file ../blue/luggage_sent/luggage1.txt was sent
+[2020-07-11 13:43:43.952421] Case 0 <SB> Luggage file ../blue/luggage_sent/luggage1.txt was chunked
+[2020-07-11 13:43:43.952520] Case 1 <SB> Final packet was sent
+[2020-07-11 13:43:43.952550] Case 1 <SB> Desconnect packet to S&W was sent
+[2020-07-11 13:43:50.294090] Case 2 <SB> A packet with destinies came
+[2020-07-11 13:43:50.394675] Case 2 <SB> A exe packet came
+[2020-07-11 13:43:50.394765] Case 2 <SB> A exe packet came
+[2020-07-11 13:43:50.394800] Case 2 <SB> A exe packet came
+[2020-07-11 13:43:50.394829] Case 2 <SB> A exe packet came
+[2020-07-11 13:43:50.394855] Case 2 <SB> A exe packet came
+[2020-07-11 13:43:50.394880] Case 2 <SB> A exe packet came
+[2020-07-11 13:43:50.394905] Case 2 <SB> A exe packet came
+[2020-07-11 13:43:50.394932] Case 2 <SB> A exe packet came
+[2020-07-11 13:43:50.394957] Case 2 <SB> A exe packet came
+[2020-07-11 13:43:50.394981] Case 2 <SB> A exe packet came
+[2020-07-11 13:43:50.810729] Case 2 <SB> A exe packet came
+[2020-07-11 13:43:50.812384] Case 2 <SB> A exe packet came
+[2020-07-11 13:43:50.813836] Case 2 <SB> A exe packet came
+[2020-07-11 13:43:50.815245] Case 2 <SB> A exe packet came
+[2020-07-11 13:43:50.816583] Case 2 <SB> A exe packet came
+[2020-07-11 13:43:50.817866] Case 2 <SB> A exe packet came
+[2020-07-11 13:43:50.819245] Case 2 <SB> A exe packet came
+[2020-07-11 13:43:50.820505] Case 2 <SB> A exe packet came
+[2020-07-11 13:43:50.821742] Case 2 <SB> A exe packet came
+[2020-07-11 13:43:50.823092] Case 2 <SB> A exe packet came
+[2020-07-11 13:43:50.824316] Case 2 <SB> A exe packet came
+[2020-07-11 13:43:51.326831] Case 2 <SB> A exe packet came
+[2020-07-11 13:43:51.328734] Case 2 <SB> A luggage packet came
+[2020-07-11 13:43:51.330676] Case 2 <SB> A luggage packet came
+[2020-07-11 13:43:51.332464] Case 2 <SB> The final packet came
